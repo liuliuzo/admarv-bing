@@ -1,6 +1,6 @@
-package com.microsoft.azure.msalwebsample;
+package com.admarv.saas.bing;
 
-import static com.microsoft.azure.msalwebsample.SessionManagementHelper.FAILED_TO_VALIDATE_MESSAGE;
+import static com.admarv.saas.bing.SessionManagementHelper.FAILED_TO_VALIDATE_MESSAGE;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
